@@ -1,0 +1,5 @@
+{
+  // Dihseek Configuration
+  "bot-token": "insert", // Enter your token here
+  "deepseek-api-key": "insert" // Enter your api key here
+}
